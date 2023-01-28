@@ -1,5 +1,5 @@
 class Shoes:
-    def ___init___(self, name, price):
+    def __init__(self, name, price):
             self.name = name
             self.price = float(price)
 
